@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Flashlet</string>
+    <string name="tagline">Master anything, one card at a time</string>
+    <string name="decks">Decks</string>
+    <string name="study">Study</string>
+    <string name="cards">Cards</string>
+    <string name="create_deck">Create Deck</string>
+    <string name="edit_deck">Edit Deck</string>
+    <string name="delete_deck">Delete Deck</string>
+    <string name="create_card">New Card</string>
+    <string name="edit_card">Edit Card</string>
+    <string name="delete_card">Delete Card</string>
+    <string name="search_decks_or_cards">Search decks and cards…</string>
+    <string name="tap_to_flip">Tap card to flip</string>
+    <string name="front">Front (Question / Term)</string>
+    <string name="back">Back (Answer / Meaning)</string>
+    <string name="remembered">Remembered</string>
+    <string name="need_practice">Need Practice</string>
+    <string name="session_complete">Session Complete!</string>
+    <string name="restart_session">Review Again</string>
+    <string name="review_difficult_only">Practice Difficult Only</string>
+    <string name="share_deck">Share Deck</string>
+    <string name="export_deck_json">Export Deck (JSON)</string>
+    <string name="import_deck">Import Deck</string>
+    <string name="share_progress">Share Score</string>
+    <string name="about_app">About Flashlet</string>
+    <string name="company_name">ViveScript Solutions LLC</string>
+    <string name="copyright_notice">© 2026 ViveScript Solutions LLC.</string>
+</resources>

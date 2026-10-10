@@ -1,0 +1,6 @@
+{
+  "name": "Flashlet",
+  "description": "A fast, intuitive, and offline-first flashcard app for mastering study decks, vocabulary, and exam prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
